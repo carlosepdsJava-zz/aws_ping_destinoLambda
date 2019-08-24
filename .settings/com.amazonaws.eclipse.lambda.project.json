@@ -1,0 +1,1 @@
+{"lastDeploymentHandler":"br.com.cvc.teste.LambdaFunctionHandler","lastInvokeHandler":null,"handlerMetadata":{"br.com.cvc.teste.LambdaFunctionHandler":{"deployment":{"regionId":"sa-east-1","awsLambdaFunctionName":"myTestePing","awsIamRoleName":"myDuda-role-7pe75m91","awsS3BucketName":"carlossantos","memory":0,"timeout":0},"invoke":null}},"lastInvokedHandlerDeployed":false}

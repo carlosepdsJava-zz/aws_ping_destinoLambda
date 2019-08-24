@@ -1,0 +1,1 @@
+# AWS ping destino lambda
